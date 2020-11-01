@@ -47,6 +47,7 @@ Dizi is split into mainly two types:
 ## Choosing Dizi
 
 Main types of dizi ([source](http://mini.eastday.com/a/180601130248555.html?qid=02263&vqid=qid02650))
+![](images/types_of_dizi.jpeg)
 
 Note: the key of the flute does not matter as much as you think when it comes to practicing! So if you really can't decide, here's a tl:dr:
 
