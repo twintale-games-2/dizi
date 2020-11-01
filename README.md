@@ -43,8 +43,8 @@ Disclaimer: if there are any mistakes in this guide, please message me. I am not
 
 [Dizi Fingering](#dizi-fingering)
 
-- [Base tone = 5](<#Base-tone-=-5-/-全按作低音-5(筒音)>)
-- [Base tone = 2](<#Base-tone-=-2-/-全按作低音-2(筒音)>)
+- [Base tone = 5](#Base-tone-=-5)
+- [Base tone = 2](#Base-tone-=-2)
 - [Other Fingering Charts](#other-fingering-charts)
 
 [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
