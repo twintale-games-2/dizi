@@ -18,7 +18,7 @@ You should have or planning to buy:
 ---
 # Table of Contents
 
-(Introduction to Dizi) [#introduction-to-dizi]
+[Introduction to Dizi](#introduction-to-dizi)
 
 
 ---
