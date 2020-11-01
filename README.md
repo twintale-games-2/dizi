@@ -43,8 +43,8 @@ Disclaimer: if there are any mistakes in this guide, please message me. I am not
 
 [Dizi Fingering](#dizi-fingering)
 
-- [Base tone = 5](#base-tone-=-5)
-- [Base tone = 2](#base-tone-=-2)
+- [Base tone = 5](#base-tone-5)
+- [Base tone = 2](#base-tone-2)
 - [Other Fingering Charts](#other-fingering-charts)
 
 [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
@@ -189,7 +189,7 @@ As seen from above, depending on what key the piece is in, or what intructions a
 
 [Wikipedia for jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation)
 
-#### Base tone = 5
+#### Base tone 5
 
 **Base tone = 5 / 全按作低音 5 (筒音)**
 
@@ -229,7 +229,7 @@ High 5 〇 〇●●●●● or 〇●●〇〇〇
 
 High 6 〇 ●●〇●●〇
 
-#### Base tone = 2
+#### Base tone 2
 
 __Base tone = 2 / 全按作低音 2 (筒音)__
 
