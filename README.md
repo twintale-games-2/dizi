@@ -18,11 +18,31 @@ You should have or planning to buy:
 - a flute cleaner or a very thin stick roughly 30-40cm long (recommended)
 - a thin microfibre cloth to clean the flute (recommended)
 
+Disclaimer: if there are any mistakes in this guide, please message me. I am not a professional flute player or teacher. This serves as a hub for me to accumulate and translate resources for dizi for an English-speaking audience.
+
 ---
 
 # Table of Contents
 
 [Introduction to Dizi](#introduction-to-dizi)
+[Choosing Dizi](#choosing-dizi)
+
+- [Materials of Dizi](#materials-of-dizi)
+- [Dizi Care](#dizi-care)
+
+[Dizi Basics](#dizi-basics)
+
+- [Dimo](#dimo)
+- [Dizi Tones](#dizi-tones)
+- [Dizi Fingering](#dizi-fingering)
+- - [Base tone = 5](<#Base-tone-=-5-/-全按作低音-5(筒音)>)
+- - [Base tone = 2](<#Base-tone-=-2-/-全按作低音-2(筒音)>)
+- - [Other Fingering Charts](#other-fingering-charts)
+- [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
+
+[Lesson 1](#lesson-1)
+
+[Resources](#resources)
 
 ---
 
@@ -39,15 +59,15 @@ Dizi is split into mainly two types:
   (In the above, C = middle C on the piano, and gradually goes up, there are also flat flutes, such as Eb or Bb)
   Other than these two types, flute also comes in lower keys. But remember, the rest of the guide disregards these, so when we talk about C, D, E, F, G, A key flutes, I mean the above types:
 - 大笛 dadi (lit: big flute, for lower tones such as low G, F, A, Bb)
-- 倍低音笛 beidiyindi (lit: double bass flute, for even lower tones of C, D, E)
+- 倍 Low 笛 beidiyindi (lit: double bass flute, for even lower tones of C, D, E)
   For anyone interested in what a double bass flute looks like: [Youtube video of double bass flute] (https://youtu.be/n25mpVbVwMU)
 
-[Wikipedia link to dizi] (https://en.wikipedia.org/wiki/Dizi_(instrument))
+[Wikipedia link to dizi](<https://en.wikipedia.org/wiki/Dizi_(instrument)>)
 
 ## Choosing Dizi
 
-Main types of dizi ([source](http://mini.eastday.com/a/180601130248555.html?qid=02263&vqid=qid02650))
-![](images/types_of_dizi.jpeg)
+![Main types of dizi](./images/types_of_dizi.jpeg)
+([source](http://mini.eastday.com/a/180601130248555.html?qid=02263&vqid=qid02650))
 
 Note: the key of the flute does not matter as much as you think when it comes to practicing! So if you really can't decide, here's a tl:dr:
 
@@ -90,285 +110,287 @@ If you have your flute, at this point you might be wondering what the holes are.
 ### Dizi Tones
 
 ### Dizi Fingering
-全按作低音5（筒音）
 
-          膜孔         指孔
+High notes are denoted with a dot above the number, and low notes are denoted with a dot below the number. 2 dots above means 2 octaves above, and 2 dots below means 2 octaves below.
+Jianpu notation for 1=C:
+| Note: | C | D | E | F | G | A | B | C |
+| Jianpu: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | high 1 |
 
-低音5    〇     ●●●●●●  
+Jianpu notation for 1=G:
+| Note: | C | D | E | F | G | A | B | C |
+| Jianpu: | low 4 | low 5 | low 6 | low 7 | 1 | 2 | 3 | 4 |
 
-低音6    〇     ●●●●●〇
+As seen from above, `1` in jianpu doesn't always have the same note, this is also why flute comes in tones.
 
-低音7    〇     ●●●●〇〇
+Fingering charts are normally shown at the beginning of a piece of music, in the following forms:
+_1=x_ (example: 1=G, 1=C, 1=D etc.). Makes the jianpu notation 1 = that note. What this means in practice is if the piece of music says 1=G, and the lowest note in that piece is low 5, then use a G flute. If the lowest note is between low 2 and low 5, then use a D flute with the conversion chart. This is the more common way to show what key the piece is in, but this make the performer decide what flute to use.
 
-中音1    〇     ●●●〇〇〇
+_全按作低音 x_ or _筒音作 x_. where x = a number. I'll translate this as _base tone = x_. This means the note you play with all 6 finger holes covered is x. This note is called 筒音 tongyin [base tone]. Example: 筒音作 5 means all holes covered plays a low 5. This instruction often comes in the form of [Key]调筒音作 x, such as D 调筒音作 2, meaning use a D flute, and all 6 finger holes covered makes the note low 2 in this piece. This method gives the composer more control, and the performer doesn't have to convert the tones themselves.
 
-中音2    〇     ●●〇〇〇〇
+As seen from above, depending on what key the piece is in, or what intructions are given, the fingerings for the flute is going to be different. Here are all the fingerings.
 
-中音3    〇     ●〇〇〇〇〇
+Note: covered ● open 〇 half-covered ◎
+〇(dimo) ●●●●●● <-- this is just to show the orientation of the flute. Dimo hole is not touched while playing.
 
-中音4    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+#### Base tone = 5 / 全按作低音 5 (筒音)
 
-中音5    〇     ●●●●●●或〇●●●●●
+<!-- prettier-ignore-start -->
+Low 5 〇 ●●●●●●
 
-中音6    〇     ●●●●●〇
+Low 6 〇 ●●●●●〇
 
-中音7    〇     ●●●●〇〇
+Low 7 〇 ●●●●〇〇
 
-高音1    〇     ●●●〇〇〇
+Mid 1 〇 ●●●〇〇〇
 
-高音2    〇     ●●〇〇〇〇
+Mid 2 〇 ●●〇〇〇〇
 
-高音3    〇     ●〇〇〇〇〇
+Mid 3 〇 ●〇〇〇〇〇
 
-高音4    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇或●〇●●〇〇
+Mid 4 〇 〇●●〇〇〇 or ◎〇〇〇〇〇 or 〇●●●〇〇
 
-高音5    〇     〇●●●●●或〇●●〇〇〇
+Mid 5 〇 ●●●●●● or 〇●●●●●
 
-高音6    〇     ●●〇●●〇
+Mid 6 〇 ●●●●●〇
 
-注: 闭孔●         开孔〇    半开孔◎
+Mid 7 〇 ●●●●〇〇
 
+High 1 〇 ●●●〇〇〇
 
-全按作低音2（筒音）
+High 2 〇 ●●〇〇〇〇
 
-          膜孔         指孔
+High 3 〇 ●〇〇〇〇〇
 
-低音2    〇     ●●●●●●  
+High 4 〇 〇●●●●〇 or ◎〇〇〇〇〇 or 〇●〇〇〇〇 or ●〇●●〇〇
 
-低音3    〇     ●●●●●〇
+High 5 〇 〇●●●●● or 〇●●〇〇〇
 
-低音4    〇     ●●●●〇●或●●●●◎〇
+High 6 〇 ●●〇●●〇
 
-低音5    〇     ●●●〇〇〇
+#### Base tone = 2 / 全按作低音 2 (筒音)
 
-低音6    〇     ●●〇〇〇〇
+Low 2 〇 ●●●●●●
 
-低音7    〇     ●〇〇〇〇〇
+Low 3 〇 ●●●●●〇
 
-中音1    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+Low 4 〇 ●●●●〇● or ●●●●◎〇
 
-中音2    〇     ●●●●●●或〇●●●●●
+Low 5 〇 ●●●〇〇〇
 
-中音3    〇     ●●●●●〇
+Low 6 〇 ●●〇〇〇〇
 
-中音4    〇     ●●●●〇●或●●●●◎〇
+Low 7 〇 ●〇〇〇〇〇
 
-中音5    〇     ●●●〇〇〇
+Mid 1 〇 〇●●〇〇〇 or ◎〇〇〇〇〇 or 〇●●●〇〇
 
-中音6    〇     ●●〇〇〇〇
+Mid 2 〇 ●●●●●● or 〇●●●●●
 
-中音7    〇     ●〇〇〇〇〇
+Mid 3 〇 ●●●●●〇
 
-高音1    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇或●〇●●〇〇
+Mid 4 〇 ●●●●〇● or ●●●●◎〇
 
-高音2    〇     〇●●●●●或〇●●〇〇〇
+Mid 5 〇 ●●●〇〇〇
 
-高音3    〇     ●●〇●●〇
+Mid 6 〇 ●●〇〇〇〇
 
-注: 闭孔●         开孔〇    半开孔◎
+Mid 7 〇 ●〇〇〇〇〇
 
+High 1 〇 〇●●●●〇 or ◎〇〇〇〇〇 or 〇●〇〇〇〇 or ●〇●●〇〇
 
-全按作低音6（筒音）
+High 2 〇 〇●●●●● or 〇●●〇〇〇
 
-          膜孔         指孔
+High 3 〇 ●●〇●●〇
 
-低音6    〇     ●●●●●●  
+#### Other Fingering Charts
 
-低音7    〇     ●●●●●〇
+These are not as important and are rarely used, so for reference only.
 
-中音1    〇     ●●●●〇●或●●●●◎〇
+Base tone = 6 / 全按作低音 6（筒音）
 
-中音2    〇     ●●●〇〇〇
+Low 6 〇 ●●●●●●
 
-中音3    〇     ●●〇〇〇〇
+Low 7 〇 ●●●●●〇
 
-中音4    〇     ●◎〇〇〇〇或●〇●●〇〇
+Mid 1 〇 ●●●●〇● or ●●●●◎〇
 
-中音5    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+Mid 2 〇 ●●●〇〇〇
 
-中音6    〇     ●●●●●●或〇●●●●●
+Mid 3 〇 ●●〇〇〇〇
 
-中音7    〇     ●●●●●〇
+Mid 4 〇 ●◎〇〇〇〇 or ●〇●●〇〇
 
-高音1    〇     ●●●●〇●或●●●●◎〇
+Mid 5 〇 〇●●〇〇〇 or ◎〇〇〇〇〇 or 〇●●●〇〇
 
-高音2    〇     ●●●〇〇〇
+Mid 6 〇 ●●●●●● or 〇●●●●●
 
-高音3    〇     ●●〇〇〇〇
+Mid 7 〇 ●●●●●〇
 
-高音4    〇     ●◎〇〇〇〇或●〇●〇〇〇
+High 1 〇 ●●●●〇● or ●●●●◎〇
 
-高音5    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇或●〇●●〇〇
+High 2 〇 ●●●〇〇〇
 
-高音6    〇     〇●●●●●或〇●●〇〇〇
+High 3 〇 ●●〇〇〇〇
 
-高音7    〇     ●●〇●●〇
+High 4 〇 ●◎〇〇〇〇 or ●〇●〇〇〇
 
-注: 闭孔●         开孔〇    半开孔◎
+High 5 〇 〇●●●●〇 or ◎〇〇〇〇〇 or 〇●〇〇〇〇 or ●〇●●〇〇
 
-全按作低音6（筒音）
+High 6 〇 〇●●●●● or 〇●●〇〇〇
 
-          膜孔         指孔
+High 7 〇 ●●〇●●〇
 
-低音6    〇     ●●●●●●  
+Base tone = 7 / 全按作低音 7（筒音）
 
-低音7    〇     ●●●●●〇
+Low 7 〇 ●●●●●●
 
-中音1    〇     ●●●●〇●或●●●●◎〇
+Mid 1 〇 ●●●●●◎
 
-中音2    〇     ●●●〇〇〇
+Mid 2 〇 ●●●●〇●
 
-中音3    〇     ●●〇〇〇〇
+Mid 3 〇 ●●●〇〇〇
 
-中音4    〇     ●◎〇〇〇〇或●〇●●〇〇
+Mid 4 〇 ●●◎〇〇〇
 
-中音5    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+Mid 5 〇 ●◎〇〇〇〇
 
-中音6    〇     ●●●●●●或〇●●●●●
+Mid 6 〇 〇〇●●〇〇
 
-中音7    〇     ●●●●●〇
+Mid 7 〇 ●●●●●● or 〇●●●●●
 
-高音1    〇     ●●●●〇●或●●●●◎〇
+High 1 〇 ●●●●●◎
 
-高音2    〇     ●●●〇〇〇
+High 2 〇 ●●●●〇●
 
-高音3    〇     ●●〇〇〇〇
+High 3 〇 ●●●〇〇〇
 
-高音4    〇     ●◎〇〇〇〇或●〇●〇〇〇
+High 4 〇 ●●◎〇〇〇
 
-高音5    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇或●〇●●〇〇
+High 5 〇 ●◎〇〇〇〇
 
-高音6    〇     〇●●●●●或〇●●〇〇〇
+High 6 〇 〇●●●●〇 or ◎〇〇〇〇〇
 
-高音7    〇     ●●〇●●〇
+High 7 〇 〇●●●●● or ●●●●●● or 〇●●〇〇〇
 
-注: 闭孔●         开孔〇    半开孔◎
+High 1 〇 〇●●〇〇◎
 
+Base note = 1 / 全按作低音 1（筒音）
 
-全按作低音6（筒音）
+Low 1 〇 ●●●●●●
 
-          膜孔         指孔
+Low 2 〇 ●●●●●〇
 
-低音6    〇     ●●●●●●  
+Low 3 〇 ●●●●〇〇
 
-低音7    〇     ●●●●●〇
+Low 4 〇 ●●●〇〇〇
 
-中音1    〇     ●●●●〇●或●●●●◎〇
+Low 5 〇 ●●〇〇〇〇
 
-中音2    〇     ●●●〇〇〇
+Low 6 〇 ●〇〇〇〇〇
 
-中音3    〇     ●●〇〇〇〇
+Low 7 〇 〇〇〇〇〇〇 or 〇〇●〇●〇
 
-中音4    〇     ●◎〇〇〇〇或●〇●●〇〇
+Mid 1 〇 ●●●●●● or 〇●●●●●
 
-中音5    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+Mid 2 〇 ●●●●●〇
 
-中音6    〇     ●●●●●●或〇●●●●●
+Mid 3 〇 ●●●●〇〇
 
-中音7    〇     ●●●●●〇
+Mid 4 〇 ●●●〇〇〇
 
-高音1    〇     ●●●●〇●或●●●●◎〇
+Mid 5 〇 ●●〇〇〇〇
 
-高音2    〇     ●●●〇〇〇
+Mid 6 〇 ●〇〇〇〇〇
 
-高音3    〇     ●●〇〇〇〇
+Mid 7 〇 〇〇〇〇〇〇 or 〇〇●〇●〇
 
-高音4    〇     ●◎〇〇〇〇或●〇●〇〇〇
+High 1 〇 〇●●●●● or 〇●●〇〇〇
 
-高音5    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇或●〇●●〇〇
+High 2 〇●●〇●●〇
 
-高音6    〇     〇●●●●●或〇●●〇〇〇
+Base tone = 3 / 全按作低音 3（筒音）
 
-高音7    〇     ●●〇●●〇
+Low 3 〇 ●●●●●●
 
-注: 闭孔●         开孔〇    半开孔◎
+Low 4 〇 ●●●●●◎
 
+Low 5 〇 ●●●●〇● or ●●●●◎〇
 
-全按作低音3（筒音）
+Low 6 〇 ●●●〇〇〇
 
-          膜孔         指孔
+Low 7 〇 ●●〇〇〇〇
 
-低音3    〇     ●●●●●●  
+Mid 1 〇 ●◎〇〇〇〇 or ●〇●●〇〇
 
-低音4    〇     ●●●●●◎
+Mid 2 〇 〇●●〇〇〇 or ◎〇〇〇〇〇 or 〇●●●〇〇
 
-低音5    〇     ●●●●〇●或●●●●◎〇
+Mid 3 〇 ●●●●●● or 〇●●●●●
 
-低音6    〇     ●●●〇〇〇
+Mid 4 〇 ●●●●●◎
 
-低音7    〇     ●●〇〇〇〇
+Mid 5 〇 ●●●●〇● or ●●●●◎〇
 
-中音1    〇     ●◎〇〇〇〇或●〇●●〇〇
+Mid 6 〇 ●●●〇〇〇
 
-中音2    〇     〇●●〇〇〇或◎〇〇〇〇〇或〇●●●〇〇
+Mid 7 〇 ●●〇〇〇〇
 
-中音3    〇     ●●●●●●或〇●●●●●
+High 1 〇 ●◎〇〇〇〇 or ●〇●〇〇〇
 
-中音4    〇     ●●●●●◎
+High 2 〇 〇●●●●〇 or ◎〇〇〇〇〇 or 〇●〇〇〇〇〇 or ●〇●●〇〇
 
-中音5    〇     ●●●●〇●或●●●●◎〇
+High 3 〇 〇●●●●● or 〇●●〇〇〇
 
-中音6    〇     ●●●〇〇〇
+High 4 〇 ●●◎●●〇
 
-中音7    〇     ●●〇〇〇〇
+Base tone = 4 / 全按作低音 4（筒音）
 
-高音1    〇     ●◎〇〇〇〇或●〇●〇〇〇
+Low 4 〇 ●●●●●●
 
-高音2    〇     〇●●●●〇或◎〇〇〇〇〇或〇●〇〇〇〇〇或●〇●●〇〇
+Low 5 〇 ●●●●●〇
 
-高音3    〇     〇●●●●●或〇●●〇〇〇
+Low 6 〇 ●●●●〇〇
 
-高音4    〇     ●●◎●●〇
+Low 7 〇 ●●◎〇〇〇
 
-注: 闭孔●         开孔〇    半开孔◎
+Mid 1 〇 ●●〇〇〇〇
 
+Mid 2 〇 ●〇〇〇〇〇
 
-全按作低音4（筒音）
+Mid 3 〇 〇〇〇〇〇〇 or 〇〇●〇●〇
 
-          膜孔         指孔
+Mid 4 〇 ●●●●●● or 〇●●●●●
 
-低音4    〇     ●●●●●●  
+Mid 5 〇 ●●●●●〇
 
-低音5    〇     ●●●●●〇
+Mid 6 〇 ●●●●〇〇
 
-低音6    〇     ●●●●〇〇
+Mid 7 〇 ●●◎〇〇〇
 
-低音7    〇     ●●◎〇〇〇
+High 1 〇 ●●〇〇〇〇
 
-中音1    〇     ●●〇〇〇〇
+High 2 〇 ●〇〇〇〇〇
 
-中音2    〇     ●〇〇〇〇〇
+High 3 〇 〇〇〇〇〇〇 or 〇〇●〇●〇
 
-中音3    〇     〇〇〇〇〇〇或〇〇●〇●〇
+High 4 〇 〇●●●●● or ●●●●●● or 〇●●〇〇〇
 
-中音4    〇     ●●●●●●或〇●●●●●
+High 5 〇 ●●〇●●〇
 
-中音5    〇     ●●●●●〇
 
-中音6    〇     ●●●●〇〇
+<!-- prettier-ignore-end -->
 
-中音7    〇     ●●◎〇〇〇
-
-高音1    〇     ●●〇〇〇〇
-
-高音2    〇     ●〇〇〇〇〇
-
-高音3    〇     〇〇〇〇〇〇或〇〇●〇●〇
-
-高音4    〇     〇●●●●●或●●●●●●或〇●●〇〇〇
-
-高音5    〇     ●●〇●●〇
-
-注: 闭孔●         开孔〇    半开孔◎
-
-
-
-
-https://en.wikipedia.org/wiki/Numbered_musical_notation
+[Wikipedia for jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation)
 
 ### Dizi Tone Conversion Chart
 
-## Basic Exercises
+So you might have realised that a flute can technically play a chromatic scale with half-covering some holes... So why change fingering or flutes?
+
+- For the range
+- Half-covering doesn't sound as crisp
+- For the authenticity
+
+So this means sometimes you may have to figure out which flute to use or which fingerings. Here's a conversion chart. But since this is a beginner's guide, the chart is for reference only, and I'll put a note above any exercises or pieces of music if they require a specific key or fingering. If there are no notes, then the default is whatever flute you have with the fingering base tone = 5.
+
+## Lesson 1
 
 ## Resources
 
