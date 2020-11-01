@@ -78,7 +78,7 @@ Dizi is split into mainly two types:
   (In the above, C = middle C on the piano, and gradually goes up, there are also flat flutes, such as Eb or Bb)
   Other than these two types, flute also comes in lower keys. But remember, the rest of the guide disregards these, so when we talk about C, D, E, F, G, A key flutes, I mean the above types:
 - 大笛 dadi (lit: big flute, for lower tones such as low G, F, A, Bb)
-- 倍 Low 笛 beidiyindi (lit: double bass flute, for even lower tones of C, D, E)
+- 倍低音笛 beidiyindi (lit: double bass flute, for even lower tones of C, D, E)
   For anyone interested in what a double bass flute looks like: [Youtube video of double bass flute] (https://youtu.be/n25mpVbVwMU)
 
 [Wikipedia link to dizi](<https://en.wikipedia.org/wiki/Dizi_(instrument)>)
