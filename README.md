@@ -1,4 +1,6 @@
-# dizi
+# Beginner's Guide to Dizi
+
+**LESSON 2 AND ONWARDS YET TO COME**
 
 A beginner’s guide to Chinese flute.
 
@@ -47,7 +49,17 @@ Disclaimer: if there are any mistakes in this guide, please message me. I am not
 
 [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
 
-**[Lesson 1](#lesson-1)**
+**[Lesson 1 - mid 1 to high 1](#Lesson-1)**
+
+**[Lesson 2 - low 5, 6, 7](#Lesson-2)**
+
+**[Lesson 3 - high 2, 3, 4](#Lesson-3)**
+
+**[Lesson 4 - 连线 slurs, 顿音 staccato/staccatissimo/spiccato, 强音 accents](#Lesson-4)**
+
+**[Lesson 5 - triplets](#Lesson-5)**
+
+**[Lesson 6 - high 5, 6](#Lesson-6)**
 
 **[Resources](#resources)**
 
@@ -123,7 +135,7 @@ Once you have a decent flute, the quality of dimo actually matters more to the s
 Step 1:
 Cut open a Dimo (they come in tubes) and cut out a piece that is big enough to cover the dimo hole
 
-Step 2:  
+Step 2:
 Wet the outside of the dimo hole and rub some erjiao on the outside of the dimo hole
 
 Step 3:
@@ -452,25 +464,54 @@ I have a piece of music in G, the lowest note in the piece is a low 3, so a G fl
 
 **Use flute of** **_any_** **key, fingering: base tone = 5.**
 
-Outcome:
+Notes:
+
+- V is a breath mark, take a breath here
+- Reference fingering from [here](<#Base-tone-=-5-/-全按作低音-5(筒音)>)
+
+Outcomes:
 
 - be able to read basic jianpu
 - be able to play in beat
 - be able to produce a clear and crisp sound from each note
 - be able to accurately take a breath (right now it may seem excessive, it's for practice)
 
+---
+
 ![Exercise 1](./resources/sheet_music/01-01.png)
 
+---
+
 ![Exercise 2](./resources/sheet_music/01-02.png)
+
+---
 
 Note: for #4, leave all fingering holes open
 ![Exercise 3](./resources/sheet_music/01-03.png)
 
+---
+
 ![Exercise 4](./resources/sheet_music/01-04.png)
+
+---
 
 ![Exercise 5](./resources/sheet_music/01-05.png)
 
+---
+
 ![Exercise 6](./resources/sheet_music/01-06.png)
+
+---
+
+## Lesson 2
+
+## Lesson 3
+
+## Lesson 4
+
+## Lesson 5
+
+## Lesson 6
 
 ## Resources
 
