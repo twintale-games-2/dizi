@@ -13,6 +13,7 @@ You should have or planning to buy:
 
 - a flute
 - dimo
+- erjiao (special type of adhesive)
 - a dimo protector (recommended)
 - a dizi bag or case (recommended)
 - a flute cleaner or a very thin stick roughly 30-40cm long (recommended)
@@ -25,21 +26,26 @@ Disclaimer: if there are any mistakes in this guide, please message me. I am not
 # Table of Contents
 
 **[Introduction to Dizi](#introduction-to-dizi)**
+
 **[Choosing Dizi](#choosing-dizi)**
 
 [Materials of Dizi](#materials-of-dizi)
+
 [Dizi Care](#dizi-care)
 
 **[Dizi Basics](#dizi-basics)**
 
 [Dimo](#dimo)
+
 [Dizi Tones](#dizi-tones)
+
 [Dizi Fingering](#dizi-fingering)
 
 - [Base tone = 5](<#Base-tone-=-5-/-全按作低音-5(筒音)>)
 - [Base tone = 2](<#Base-tone-=-2-/-全按作低音-2(筒音)>)
 - [Other Fingering Charts](#other-fingering-charts)
-  [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
+
+[Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
 
 **[Lesson 1](#lesson-1)**
 
@@ -148,6 +154,7 @@ As you can see, although the actual note for 1, 2, 3... etc changes, the tonal r
 ### Dizi Fingering
 
 High notes are denoted with a dot above the number, and low notes are denoted with a dot below the number. 2 dots above means 2 octaves above, and 2 dots below means 2 octaves below.
+
 Jianpu notation for 1=C:
 | Note: | C | D | E | F | G | A | B | C |
 |---------|---|---|---|---|---|---|---|--------|
@@ -158,19 +165,22 @@ Jianpu notation for 1=G:
 |---------|---|---|---|---|---|---|---|--------|
 | Jianpu: | low 4 | low 5 | low 6 | low 7 | 1 | 2 | 3 | 4 |
 
-As seen from above, `1` in jianpu doesn't always have the same note, this is also why flute comes in tones.
+As seen from above, 1 in jianpu doesn't always have the same note, this is also why flute comes in tones.
 
 Fingering charts are normally shown at the beginning of a piece of music, in the following forms:
-_1=x_ (example: 1=G, 1=C, 1=D etc.). Makes the jianpu notation 1 = that note. What this means in practice is if the piece of music says 1=G, and the lowest note in that piece is low 5, then use a G flute. If the lowest note is between low 2 and low 5, then use a D flute with the conversion chart. This is the more common way to show what key the piece is in, but this make the performer decide what flute to use.
 
-_全按作低音 x_ or _筒音作 x_. where x = a number. I'll translate this as _base tone = x_. This means the note you play with all 6 finger holes covered is x. This note is called 筒音 tongyin [base tone]. Example: 筒音作 5 means all holes covered plays a low 5. This instruction often comes in the form of [Key]调筒音作 x, such as D 调筒音作 2, meaning use a D flute, and all 6 finger holes covered makes the note low 2 in this piece. This method gives the composer more control, and the performer doesn't have to convert the tones themselves.
+**1=x** (example: 1=G, 1=C, 1=D etc.). Makes the jianpu notation 1 = that note. What this means in practice is if the piece of music says 1=G, and the lowest note in that piece is low 5, then use a G flute. If the lowest note is between low 2 and low 5, then use a D flute with the conversion chart. This is the more common way to show what key the piece is in, but this make the performer decide what flute to use.
+
+**全按作低音 x** or **筒音作 x**. where x = a number. I'll translate this as **base tone = x**. This means the note you play with all 6 finger holes covered is x. This note is called 筒音 tongyin [base tone]. Example: 筒音作 5 means all holes covered plays a low 5. This instruction often comes in the form of [Key]调筒音作 x, such as D 调筒音作 2, meaning use a D flute, and all 6 finger holes covered makes the note low 2 in this piece. This method gives the composer more control, and the performer doesn't have to convert the tones themselves.
 
 As seen from above, depending on what key the piece is in, or what intructions are given, the fingerings for the flute is going to be different. Here are all the fingerings.
 
-Note: covered ● open 〇 half-covered ◎
-〇(dimo) ●●●●●● <-- this is just to show the orientation of the flute. Dimo hole is not touched while playing.
+[Wikipedia for jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation)
 
 #### Base tone = 5 / 全按作低音 5 (筒音)
+
+Note: covered ● open 〇 half-covered ◎
+〇(dimo) ●●●●●● <-- this is just to show the orientation of the flute. Dimo hole is not touched while playing.
 
 <!-- prettier-ignore-start -->
 Low 5 〇 ●●●●●●
@@ -243,7 +253,7 @@ High 3 〇 ●●〇●●〇
 
 These are not as important and are rarely used, so for reference only.
 
-Base tone = 6 / 全按作低音 6（筒音）
+__Base tone = 6 / 全按作低音 6（筒音）__
 
 Low 6 〇 ●●●●●●
 
@@ -277,7 +287,7 @@ High 6 〇 〇●●●●● or 〇●●〇〇〇
 
 High 7 〇 ●●〇●●〇
 
-Base tone = 7 / 全按作低音 7（筒音）
+__Base tone = 7 / 全按作低音 7（筒音）__
 
 Low 7 〇 ●●●●●●
 
@@ -311,7 +321,7 @@ High 7 〇 〇●●●●● or ●●●●●● or 〇●●〇〇〇
 
 High 1 〇 〇●●〇〇◎
 
-Base note = 1 / 全按作低音 1（筒音）
+__Base note = 1 / 全按作低音 1（筒音）__
 
 Low 1 〇 ●●●●●●
 
@@ -345,7 +355,7 @@ High 1 〇 〇●●●●● or 〇●●〇〇〇
 
 High 2 〇●●〇●●〇
 
-Base tone = 3 / 全按作低音 3（筒音）
+__Base tone = 3 / 全按作低音 3（筒音）__
 
 Low 3 〇 ●●●●●●
 
@@ -379,7 +389,7 @@ High 3 〇 〇●●●●● or 〇●●〇〇〇
 
 High 4 〇 ●●◎●●〇
 
-Base tone = 4 / 全按作低音 4（筒音）
+__Base tone = 4 / 全按作低音 4（筒音）__
 
 Low 4 〇 ●●●●●●
 
@@ -416,8 +426,6 @@ High 5 〇 ●●〇●●〇
 
 <!-- prettier-ignore-end -->
 
-[Wikipedia for jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation)
-
 ### Dizi Tone Conversion Chart
 
 So you might have realised that a flute can technically play a chromatic scale with half-covering some holes... So why change fingering or flutes?
@@ -426,7 +434,7 @@ So you might have realised that a flute can technically play a chromatic scale w
 - Half-covering doesn't sound as crisp
 - For the authenticity
 
-So this means sometimes you may have to figure out which flute to use or which fingerings. Here's a conversion chart. But since this is a beginner's guide, the chart is for reference only, and I'll put a note above any exercises or pieces of music if they require a specific key or fingering. If there are no notes, then the default is whatever flute you have with the fingering base tone = 5.
+So this means sometimes you may have to figure out which flute to use or which fingerings. Here's a conversion chart. But since this is a beginner's guide, the chart is for reference only, and I'll put a note above any exercises or pieces of music if they require a specific key or fingering (unfortunately due to the program I used for the notation, the default is 1=D, please ignore this). If there are no notes, then the default is whatever flute you have with the fingering base tone = 5.
 
 | Base tone/Flute key | C   | D   | Eb  | E   | F   | G   | A   | Bb  |
 | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -442,11 +450,28 @@ I have a piece of music in G, the lowest note in the piece is a low 3, so a G fl
 
 ## Lesson 1
 
+**Use flute of** **_any_** **key, fingering: base tone = 5.**
+
+Outcome:
+
+- be able to read basic jianpu
+- be able to play in beat
+- be able to produce a clear and crisp sound from each note
+- be able to accurately take a breath (right now it may seem excessive, it's for practice)
+
+![Exercise 1](./resources/sheet_music/01-01.png)
+
+![Exercise 2](./resources/sheet_music/01-02.png)
+
+Note: for #4, leave all fingering holes open
+![Exercise 3](./resources/sheet_music/01-03.png)
+
 ## Resources
 
 ### Tutorials
 
 [Youtube dizi course / yao lu / Chinese](https://www.youtube.com/playlist?list=PLuqKAPrOGQ4G5sOf11bWf75z7yI_unjj4)
+
 [Youtube dizi examples / Ocarina 陶笛 / Dizi 笛子 / Xiao 簫 - 蔡旺龍 / Chinese](https://www.youtube.com/playlist?list=PL3CE5CA98927A99D9)
 
 ### Sheet Music
