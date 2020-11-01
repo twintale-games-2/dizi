@@ -1,6 +1,6 @@
 # Beginner's Guide to Dizi
 
-**LESSON 2 AND ONWARDS YET TO COME**
+**!!! LESSON 2 AND ONWARDS YET TO COME !!!**
 
 A beginner’s guide to Chinese flute.
 
