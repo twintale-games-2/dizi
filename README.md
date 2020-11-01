@@ -471,7 +471,7 @@ I have a piece of music in G, the lowest note in the piece is a low 3, so a G fl
 Notes:
 
 - V is a breath mark, take a breath here
-- Reference fingering from [here](<#Base-tone-=-5-/-全按作低音-5(筒音)>)
+- Reference fingering from [here](#base-tone-5)
 
 Outcomes:
 
