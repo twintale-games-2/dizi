@@ -43,23 +43,23 @@ Disclaimer: if there are any mistakes in this guide, please message me. I am not
 
 [Dizi Fingering](#dizi-fingering)
 
-- [Base tone = 5](#Base-tone-=-5)
-- [Base tone = 2](#Base-tone-=-2)
+- [Base tone = 5](#base-tone-=-5)
+- [Base tone = 2](#base-tone-=-2)
 - [Other Fingering Charts](#other-fingering-charts)
 
 [Dizi Tone Conversion Chart](#dizi-tone-conversion-chart)
 
-**[Lesson 1 - mid 1 to high 1](#Lesson-1)**
+**[Lesson 1 - mid 1 to high 1](#lesson-1)**
 
-**[Lesson 2 - low 5, 6, 7](#Lesson-2)**
+**[Lesson 2 - low 5, 6, 7](#lesson-2)**
 
-**[Lesson 3 - high 2, 3, 4](#Lesson-3)**
+**[Lesson 3 - high 2, 3, 4](#lesson-3)**
 
-**[Lesson 4 - 连线 slurs, 顿音 staccato/staccatissimo/spiccato, 强音 accents](#Lesson-4)**
+**[Lesson 4 - 连线 slurs, 顿音 staccato/staccatissimo/spiccato, 强音 accents](#lesson-4)**
 
-**[Lesson 5 - triplets](#Lesson-5)**
+**[Lesson 5 - triplets](#lesson-5)**
 
-**[Lesson 6 - high 5, 6](#Lesson-6)**
+**[Lesson 6 - high 5, 6](#lesson-6)**
 
 **[Resources](#resources)**
 
