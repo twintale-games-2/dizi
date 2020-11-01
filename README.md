@@ -466,6 +466,12 @@ Outcome:
 Note: for #4, leave all fingering holes open
 ![Exercise 3](./resources/sheet_music/01-03.png)
 
+![Exercise 4](./resources/sheet_music/01-04.png)
+
+![Exercise 5](./resources/sheet_music/01-05.png)
+
+![Exercise 6](./resources/sheet_music/01-06.png)
+
 ## Resources
 
 ### Tutorials
