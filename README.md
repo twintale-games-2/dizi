@@ -189,7 +189,9 @@ As seen from above, depending on what key the piece is in, or what intructions a
 
 [Wikipedia for jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation)
 
-#### Base tone = 5 / 全按作低音 5 (筒音)
+#### Base tone = 5
+
+**Base tone = 5 / 全按作低音 5 (筒音)**
 
 Note: covered ● open 〇 half-covered ◎
 〇(dimo) ●●●●●● <-- this is just to show the orientation of the flute. Dimo hole is not touched while playing.
@@ -227,7 +229,9 @@ High 5 〇 〇●●●●● or 〇●●〇〇〇
 
 High 6 〇 ●●〇●●〇
 
-#### Base tone = 2 / 全按作低音 2 (筒音)
+#### Base tone = 2
+
+__Base tone = 2 / 全按作低音 2 (筒音)__
 
 Low 2 〇 ●●●●●●
 
