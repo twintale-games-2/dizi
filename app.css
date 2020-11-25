@@ -5,9 +5,16 @@ body {
 }
 nav{
     border-bottom: 0.1em solid #457B9D;
-    position: sticky;
+    width: 100%;
+    position: fixed;
     top: 5%;
+    display: block;
+    margin: 0;
+    overflow: hidden;
     background-color: #1D3557;
+}
+a {
+    color: #457B9D;
 }
 nav a{
     display: inline-block;
@@ -25,6 +32,10 @@ nav a:hover{
    box-shadow: 0 0.5em 0.5em -0.4em #A8DADC;
    transform: translateY(-0.25em);
 
+}
+
+h1 {
+    padding-bottom: 1em;
 }
 
 .spacer{
